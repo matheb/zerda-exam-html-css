@@ -67,3 +67,8 @@ td:first-child {
 table {
  margin-bottom: 20px;
 }
+
+div > img {
+  width: 180px;
+  height: 180px;
+}
