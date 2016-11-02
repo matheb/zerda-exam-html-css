@@ -9,7 +9,7 @@ body {
   padding: 0px;
   margin: 0px;
   width: 600px;
-  height: 220px;
+  height: 180px;
   box-sizing: border-box;
   border: none;
   display: flex;
@@ -26,7 +26,7 @@ body {
 }
 
 .details {
-  padding: 0px 15px;
+  padding: 0px 20px;
   text-align: left;
   border-left: 10px solid #546294;
 }
@@ -36,8 +36,8 @@ h1 {
   font-weight: normal;
   padding-top: 0px;
   padding-bottom: 0px;
-  margin-bottom: 30px;
-  margin-top: 25px;
+  margin-bottom: 20px;
+  margin-top: 20px;
 }
 
 p, td {
@@ -46,7 +46,7 @@ p, td {
 
 p {
   padding-right: 80px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 td {
@@ -61,8 +61,7 @@ td:first-child {
 
 .icon {
   float: right;
-  margin-top: 20px;
-  margin-right: 10px;
+  margin-top: 10px;
 }
  table {
    margin-bottom: 20px;
