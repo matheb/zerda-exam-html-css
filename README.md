@@ -82,6 +82,12 @@ Add your answer to this readme file, commit your changes to this repository.
 ```
 #### Your answer: [2p]
 
+	The document body has no padding or margins, so the blue box's top left corner is at the position: top:20px, left 20px.
+	This is an absolute position, so it is measured from the border of the body.
+	The yellow box also has an absolute position, BUT this box is a child element of the blue box. So, the yellow's position counts
+	form the border of the blue box.
+	So, the yellow box's top left corner lays 40px under and 40px left from the body's top left corner.
+
 
 ## 3. Explain concepts (~15 minutes) [4 points]
 Add your answer to this readme file, commit your changes to this repository.
